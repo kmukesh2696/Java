@@ -1,1 +1,1 @@
-print("jitendra kumar yadav") cxbcvbvcvnbvbmnbnbbn,mm,bn
+print("jitendra kumar yadav")
